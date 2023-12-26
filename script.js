@@ -1,3 +1,3 @@
 window.onload = () => {
-    console.log("App started");
+    console.log("App started on " + window.location);
 }
